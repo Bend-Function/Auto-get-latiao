@@ -4,6 +4,7 @@ B站自动抢辣条程序
 
 安装说明：
 pip install selenium
+#
 pip install pyautogui 
 
 把 geckodriver.exe 复制到C：/Windows  下
